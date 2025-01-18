@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="w-screen h-screen">
       <SignupCounter 
-        goalCount={10}
+        goalCount={2}
         updateInterval={5000}
       />
     </div>
